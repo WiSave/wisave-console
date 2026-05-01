@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WiSave.Console/WiSave.Console.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WiSave.Console.Tests/WiSave.Console.Tests.csproj" />
+  </Folder>
+</Solution>
